@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710322808 source:d:\étude\programme c\moyenne\procsans\main.c
+	<stdio.h>
+	<stdlib.h>
+
